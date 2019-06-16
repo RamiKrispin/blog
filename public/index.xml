@@ -26,7 +26,10 @@
       <pubDate>Fri, 28 Sep 2018 21:13:14 -0500</pubDate>
       
       <guid>/2018/09/tsstudio-0.1.2/</guid>
-      <description>{{ .Content | html }}</description>
+      <description>Happy to announce the release of TSstudio 0.1.2 to CRAN. The TSstudio package provides tools for descriptive and predictive analysis of time series data, utilizing the visualization enegin of the plotly package and forecasting models from the forecast, forecastHybrid and bsts packages.
+Installation Install the stable version from CRAN:
+install.packages(&amp;quot;TSstudio&amp;quot;) or install the development version from Github:
+# install.packages(&amp;quot;devtools&amp;quot;) devtools::install_github(&amp;quot;RamiKrispin/TSstudio&amp;quot;)  New features The new release includes new set of functions for forecasting automation with the use of backtesting and ‘horse race’ approach, forecast visualization, quantile plot of time series data, and new datasets.</description>
     </item>
     
   </channel>
